@@ -1,4 +1,4 @@
-## Hi there! I’m Chris 👋
+## Hello everyone! I’m Chris 👋
 
 🔐 Computer Science student focused on cybersecurity  
 🌐 Interested in networking, systems, and security operations  
